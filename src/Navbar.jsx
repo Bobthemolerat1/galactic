@@ -44,7 +44,7 @@ export default function NavBar() {
             </li>
           </ul>
           <p className="flex-col navbar-center top-10 mx-auto font-inter font-medium text-white text-5xl">
-            Galactic
+            St4rDust
           </p>
         </div>
       </>
@@ -75,7 +75,7 @@ export default function NavBar() {
         </ul>
         <div className="w-[277px] h-[80px">
           <div className="fixed w-[277px] top-5 left-5 font-lexend [text-shadow:0px_0px_24.93px_ #ffffff] font-medium text-[#ffffff] text-[64px] tracking-[-0.64px] leading-[normal]">
-            Galactic
+            St4rDust
           </div>
         </div>
       </>
